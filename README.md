@@ -44,7 +44,7 @@ for column in columns_to_visualize:
 * Extend analysis to 5G and IoT environments.
 * 3D visualizations and health/safety studies of Wi-Fi radiation.
 
-## Authors
+## Ideation and Creation
 
 * K. Sai Jyothirmayi
 * Jenita Rachel C
